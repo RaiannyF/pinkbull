@@ -1,0 +1,11 @@
+# Elixir / Phoenix
+_build/
+deps/
+.coverage/
+.elixir_ls/
+
+# Node
+node_modules/
+
+# Arquivos temporários
+*.log
